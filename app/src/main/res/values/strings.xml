@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">软件更新</string>
+    <string name="serverurl">https://gitee.com/lin-2371778707/AndroidUpdateTest/raw/master/update.xml</string>
+    <string name="nowVersion">当前版本:</string>
+    <string name="checkversion">检查更新</string>
+</resources>
