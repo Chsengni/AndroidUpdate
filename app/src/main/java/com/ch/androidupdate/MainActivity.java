@@ -39,6 +39,10 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
+/**
+ * author xiaolin
+ * date 2019-3-31
+ **/
 public class MainActivity extends AppCompatActivity {
 
     private static final int UPDATA_CLIENT = 0;

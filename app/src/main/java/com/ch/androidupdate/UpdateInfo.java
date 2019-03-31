@@ -1,5 +1,8 @@
 package com.ch.androidupdate;
-
+/**
+ * author xiaolin
+ * date 2019-3-31
+ **/
 public class UpdateInfo {
     private String version;
     private String APKurl;
